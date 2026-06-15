@@ -33,6 +33,12 @@ source .venv/bin/activate
 pip install -e .
 ```
 
+Alternativa simple:
+
+```bash
+pip install -r requirements.txt
+```
+
 En Windows PowerShell:
 
 ```powershell
